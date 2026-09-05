@@ -16,7 +16,7 @@ const products = [
     price: 149,
     oldPrice: 999,
     category: "GST",
-    image: "images/pdf1.svg",
+    image: "images/pdf1.png",
     pdf: "pdf/pdf1.pdf",
     paymentLink: "https://superprofile.bio/vp/gst-complete-guide-2026",
     badge: "BEST SELLER",
