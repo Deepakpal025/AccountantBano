@@ -21,7 +21,7 @@ const products = [
     paymentLink: "https://superprofile.bio/vp/gst-complete-guide-2026",
     badge: "BEST SELLER",
     pages: "45+ Pages",
-    language: "Hindi"
+    language: "Hinglish+English"
   },
   {
     id: 2,
