@@ -13,14 +13,14 @@ const products = [
     id: 1,
     title: "GST Complete Guide",
     description: "Practical GST Notes in simple Hindi.",
-    price: 99,
-    oldPrice: 199,
+    price: 149,
+    oldPrice: 999,
     category: "GST",
     image: "images/pdf1.svg",
     pdf: "pdf/pdf1.pdf",
-    paymentLink: "YOUR_PAYMENT_LINK",
+    paymentLink: "https://superprofile.bio/vp/gst-complete-guide-2026",
     badge: "BEST SELLER",
-    pages: "100+ Pages",
+    pages: "45+ Pages",
     language: "Hindi"
   },
   {
