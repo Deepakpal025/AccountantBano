@@ -1,0 +1,70 @@
+{
+  "updates": [
+    {
+      "title": "Tally Prime Complete Notes",
+      "description": "Download complete Tally Prime practical accounting notes with real entries.",
+      "image": "images/tally-notes.jpg",
+      "link": "files/tally-notes.pdf",
+      "button": "Download Notes",
+      "category": "Tally",
+      "date": "08 September 2026",
+      "new": true,
+      "pinned": true
+    },
+    {
+      "title": "GST Return Filing Guide",
+      "description": "Step-by-step GSTR-1 and GSTR-3B filing guide for beginners.",
+      "image": "images/gst-notes.jpg",
+      "link": "files/gst-guide.pdf",
+      "button": "Download Guide",
+      "category": "GST",
+      "date": "07 September 2026",
+      "new": true,
+      "pinned": false
+    },
+    {
+      "title": "TDS Sections Cheat Sheet",
+      "description": "All important TDS sections and rates in one simple PDF.",
+      "image": "",
+      "link": "files/tds-cheatsheet.pdf",
+      "button": "Download PDF",
+      "category": "TDS",
+      "date": "05 September 2026",
+      "new": false,
+      "pinned": false
+    },
+    {
+      "title": "Excel Formulas Every Accountant Should Know",
+      "description": "VLOOKUP, SUMIF, Pivot Tables and more, explained practically.",
+      "image": "images/excel-notes.jpg",
+      "link": "files/excel-formulas.pdf",
+      "button": "Download Notes",
+      "category": "Excel",
+      "date": "02 September 2026",
+      "new": false,
+      "pinned": false
+    },
+    {
+      "title": "Join Accountant Bano Telegram",
+      "description": "Join our Telegram community for notes and important updates.",
+      "image": "images/telegram.jpg",
+      "link": "https://t.me/YOUR-LINK",
+      "button": "Join Telegram",
+      "category": "Community",
+      "date": "01 September 2026",
+      "new": false,
+      "pinned": false
+    },
+    {
+      "title": "New Batch Starting Soon",
+      "description": "Tally Prime practical batch starts next week. Limited seats.",
+      "image": "",
+      "link": "#",
+      "button": "Know More",
+      "category": "Important",
+      "date": "30 August 2026",
+      "new": false,
+      "pinned": false
+    }
+  ]
+}
