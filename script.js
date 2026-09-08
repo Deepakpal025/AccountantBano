@@ -4,10 +4,10 @@
 
 // EDIT SOCIAL LINKS HERE
 const CONFIG = {
-  instagram: "https://instagram.com/YOUR-USERNAME",
-  telegram: "https://t.me/YOUR-LINK",
+  instagram: "https://instagram.com/accountant_bano",
+  telegram: "https://superprofile.bio/vig/6a9f8557a7db3900137edac3",
   youtube: "https://youtube.com/@YOUR-CHANNEL",
-  whatsapp: "https://wa.me/91XXXXXXXXXX",
+  whatsapp: "https://wa.me/918750916925",
   websiteName: "Accountant Bano"
 };
 
